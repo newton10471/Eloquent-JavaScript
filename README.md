@@ -21,3 +21,7 @@ To build the PDF file:
 To build the ePub book:
 
     make book.epub
+
+To serve the book locally offline with live js examples:
+
+    ./start_http_server.sh
